@@ -1,0 +1,1 @@
+C:\Users\Václav\Documents\Visual Studio 2013\Projects\Calculator\Calculator\Calculator.csproj;neutral
